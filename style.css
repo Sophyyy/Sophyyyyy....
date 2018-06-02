@@ -25,11 +25,12 @@ clear: both;
   display: table;
 }
 
-.xop-grid lI {
+.xop-grid li {
  width: 295px;
   height: 328px;
   display: inline-block;
-  margin: 20px
+  margin: 20px;
+  vertical-align: top;
 }
 
 .xop-grid li a {
