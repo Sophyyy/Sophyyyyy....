@@ -1,0 +1,17 @@
+{
+ "name": "Photography murals",
+ "children": [
+  {
+   "title": "Page 1",
+   "id": "c2938d3f-b7d9-bf88-0428-6292ce9ee0f0",
+   "pageId": "c2938d3f-b7d9-bf88-0428-6292ce9ee0f0",
+   "type": "page"
+  },
+  {
+   "title": "Page 2",
+   "id": "7ef729c1-dbfc-84f2-240d-769d58e6e5a4",
+   "pageId": "7ef729c1-dbfc-84f2-240d-769d58e6e5a4",
+   "type": "page"
+  }
+ ]
+}
