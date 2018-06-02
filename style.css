@@ -60,9 +60,12 @@ clear: both;
 }
 
 /* Old Styles */
-Body{
-            background-image: url(https://i1.wp.com/uncoveringpa.com/wp-content/uploads/2017/08/Philly-Skyline-at-Sunset-IMG_0769.jpg?ssl=1);
-        }
+body {
+    background-image: url(https://i1.wp.com/uncoveringpa.com/wp-content/uploads/2017/08/Philly-Skyline-at-Sunset-IMG_0769.jpg?ssl=1);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
          h1 {color:c58cff;}       
          h2 {color: c58cff;} 
          h2 {Font-size: 40px;}         
@@ -105,9 +108,10 @@ Body{
     position: sticky;
     top: 0;
          }
-         li {
-             float: right;
-         }
+
+ul.links {
+     float: right;
+}
          
          li a {
     display: block;
